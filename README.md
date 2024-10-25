@@ -42,6 +42,8 @@ Below is a flowchart representing the project workflow from start to finish:
 
 
 
+**Dashboard**
+![image](https://github.com/user-attachments/assets/d8d7a1bf-8a28-448c-a47b-9612e69dc5b3)
 
 
 
